@@ -1,4 +1,4 @@
-### Hi there 👋, Dipesh Adhikari
+### Hi there 👋, I'm Dipesh Adhikari
 #### Full Stack Developer
 ![Full Stack Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
