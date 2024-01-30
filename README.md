@@ -20,5 +20,3 @@ Skills:  REACT / JS / HTML / CSS / C# / .Net Core
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dipesh122&show_icons=true&count_private=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Dipesh122)  
-
