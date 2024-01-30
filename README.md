@@ -7,7 +7,7 @@ and explore the nature. Like to play drum.
 
 Skills:  REACT / JS / HTML / CSS / C# / .Net Core
 
-- 🔭 I’m currently onlooking for new role. 
+- 🔭 I’m currently looking for new role. 
 - 🌱 I’m currently learning React. 
 - 💬 Ask me about .net core 
 - 📫 How to reach me: dipeshadhikari.dev@gmail.com 
