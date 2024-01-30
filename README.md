@@ -2,11 +2,12 @@
 #### Full Stack Developer
 ![Full Stack Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I am Dipesh from Nepal. I do full stack developement. I really enjoy learning new ideas, skills, technique 
+and explore the nature. Like to play drum.
 
 Skills:  REACT / JS / HTML / CSS / C# / .Net Core
 
-- 🔭 I’m currently working on looking for new role. 
+- 🔭 I’m currently working onlooking for new role. 
 - 🌱 I’m currently learning React. 
 - 💬 Ask me about .net core 
 - 📫 How to reach me: dipeshadhikari.dev@gmail.com 
