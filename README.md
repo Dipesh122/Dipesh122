@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Dipesh Adhikari</h1>
-<h3 align="center">Hi there 👋, I'm Dipesh Adhikari .net developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipesh122&label=Profile%20views&color=0e75b6&style=flat" alt="dipesh122" /> </p>
 
